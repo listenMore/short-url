@@ -1,0 +1,5 @@
+{
+  "mongodbUrl": "mongodb://127.0.0.1:27017/urls",
+  "baseUrl": "http://localhost:3000/",
+  "port": 3000
+}

@@ -1,0 +1,6 @@
+POST http://localhost:3000/api/url/shorten HTTP/1.1
+content-type: application/json
+
+{
+    "longUrl": "https://www.2000new.com/"
+}
